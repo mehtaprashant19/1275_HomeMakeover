@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My First Project</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ref">Your Total is 0</string>
+    <string name="add">Add One</string>
+    <string name="sub">Subtract One</string>
+    <string name="hint">Type a command</string>
+    <string name="btn">Button</string>
+    <string name="tb">ToggleButton</string>
+    <string name="txt">Text View</string>
+
+</resources>

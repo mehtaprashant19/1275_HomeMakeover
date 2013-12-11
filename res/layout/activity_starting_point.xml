@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    >
+     <TextView 
+        android:id="@+id/tvDisplay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Your total is 0"        
+        android:textSize="40dp"
+        android:gravity="center"
+        />  
+    
+     <Button
+        android:id="@+id/badd"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Add One" 
+        android:layout_gravity="center"/>
+     <Button
+        android:id="@+id/bsub"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Subtract One"
+        android:layout_gravity="center" />
+</LinearLayout>
